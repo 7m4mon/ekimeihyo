@@ -1,6 +1,8 @@
 # パワーポイントによる駅名標
 
+![](https://github.com/7m4mon/ekimeihyo/blob/main/jr_yamanote_ppt.png)  
 
+![](https://github.com/7m4mon/ekimeihyo/blob/main/tokyo_metro_yurakucho_ppt.png)
 
 * 作者：7M4MON
 * 作成環境：Microsoft PowerPoint 2010
