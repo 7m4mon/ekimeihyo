@@ -8,7 +8,8 @@
 パワーポイントで作成した駅名標です。  
 駅名標（スライド）の進行に合わせて発車メロディが鳴ります。  
 
-- 使用フォント
+- 使用フォント  
+※ 各フォントがインストールされていないとレイアウトが崩れます。  
   - 日本語 → M+ (Mplus1-Bold.ttf, Mplus1-Regular.ttf)
   - 英語 → Arial
   - 駅ナンバー → Hind (Hind-Regular.ttf, Hind-Bold.ttf)
