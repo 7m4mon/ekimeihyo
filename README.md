@@ -1,5 +1,9 @@
 # パワーポイントによる駅名標
 
+[![](https://img.youtube.com/vi/y7nZ8iqlNNA/0.jpg)](https://www.youtube.com/watch?v=y7nZ8iqlNNA)
+
+[![](https://img.youtube.com/vi/Oi2xPVjoozk/0.jpg)](https://www.youtube.com/watch?v=Oi2xPVjoozk)
+
 ![](https://github.com/7m4mon/ekimeihyo/blob/main/jr_yamanote_ppt.png)  
 
 ![](https://github.com/7m4mon/ekimeihyo/blob/main/tokyo_metro_yurakucho_ppt.png)
